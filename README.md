@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">A passionate Data Scientist and Machine Learning Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Murari Jha</h1>
+<h3 align="center">A passionate Web Developer and Digital Marketing Expert</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yk-jha" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="murarijha" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/yk-jha?tab=repositories">
-    <img src="https://img.shields.io/github/followers/yk-jha?label=Follow&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/murarijhaofficial?tab=repositories">
+    <img src="https://img.shields.io/github/followers/murarijhaofficial?label=Follow&style=social" alt="GitHub Followers" />
   </a>
 </p>
 
@@ -21,10 +21,10 @@
 ---
 
 ### 🚀 My Skills:
-- *Languages:* Python, R, SQL, C++
-- *Libraries/Frameworks:* Pandas, NumPy, Matplotlib
+- *Languages:* Python, SQL, HTML , CSS , PHP.
+- *Libraries/Frameworks:* Pandas, NumPy, Matplotlib , Tkinter
 - *Tools:* Jupyter Notebook, VS Code, Git, Tableau
-- *Other Interests:* Data Visualization, Statistical Analysis, Predictive Modeling
+- *Other Interests:* Data Visualization, Statistical Analysis.
 
 ---
 
@@ -37,31 +37,22 @@
 ---
 
 ### 🌟 My Top Projects:
-- 🚢 [*Titanic Survival Prediction*](https://github.com/yk-jha/codsoft_task_1)  
-  Predicting survival on the Titanic using machine learning techniques.
+- (https://app.aerosync.in/)  
+  Billing Software
   
-- 🎥 [*Movie Rating Prediction*](https://github.com/yk-jha/codsoft_task_2)  
-  Estimating movie ratings based on genre, director, and actors.
+- (https://gmbscraper.aerosync.in/)  
+  Google Business Extractor for extract business details.
 
-- 📈 [*Sales Forecasting*](https://github.com/yk-jha/codsoft_task_3)  
-  Forecasting product sales using historical data and regression analysis.
+- https://imgconvert.aerosync.in/  
+  Aerosync Image Converter. Supports JPG, PNG, WEBP, GIF, BMP, ICO, PSD, RAW, SVG and more. No installation required, just upload and convert.
 
 ---
 
 ### 📬 Connect with Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/yk-jha/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://www.kaggle.com/uyash1"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fkaggle&psig=AOvVaw0mDTCgSLMrbvSafue6J5a0&ust=1733938434343000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCV2pXenYoDFQAAAAAdAAAAABAE" alt="Kaggle" /></a>
-  <a href="https://leetcode.com/u/uyashjha/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" /></a>
-  <a href="yjha5965@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" /></a>
+  <a href="[(https://www.linkedin.com/in/murari-jha-86b747138/)]><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
+    <a href="murari.jhaofficial@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" /></a>
 </p>
 
 ---
 
-### 🛠️ Technologies I Love:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/r-project.png" alt="R" />
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-</p>
