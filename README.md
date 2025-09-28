@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning *Deep Learning, NLP, and Deployment of ML models*
 - 💬 Ask me about *Python, Data Analysis, and Machine Learning*
-- 📫 How to reach me: *yjha5965@gmail.com*
+- 📫 How to reach me: *murari.jhaofficial@gmail.com*
 - ⚡ Fun fact: I love exploring datasets and turning raw data into meaningful insights!
 
 ---
@@ -30,8 +30,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yk-jha&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yk-jha&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=murari-jha&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murari-jha&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
